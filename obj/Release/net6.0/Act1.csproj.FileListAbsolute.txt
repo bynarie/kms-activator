@@ -1,0 +1,15 @@
+D:\dotnet\Act1\Act1\bin\Release\net6.0\Act1.exe
+D:\dotnet\Act1\Act1\bin\Release\net6.0\Act1.deps.json
+D:\dotnet\Act1\Act1\bin\Release\net6.0\Act1.runtimeconfig.json
+D:\dotnet\Act1\Act1\bin\Release\net6.0\Act1.dll
+D:\dotnet\Act1\Act1\bin\Release\net6.0\Act1.pdb
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.csproj.AssemblyReference.cache
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.AssemblyInfoInputs.cache
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.AssemblyInfo.cs
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.csproj.CoreCompileInputs.cache
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.dll
+D:\dotnet\Act1\Act1\obj\Release\net6.0\refint\Act1.dll
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.pdb
+D:\dotnet\Act1\Act1\obj\Release\net6.0\Act1.genruntimeconfig.cache
+D:\dotnet\Act1\Act1\obj\Release\net6.0\ref\Act1.dll

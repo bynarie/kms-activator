@@ -1,0 +1,2 @@
+D:\dotnet\Act1\Act1\bin\publish\Act1.pdb
+D:\dotnet\Act1\Act1\bin\publish\Act1.exe
